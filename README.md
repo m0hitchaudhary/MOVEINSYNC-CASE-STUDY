@@ -16,13 +16,9 @@ GoTogether is a modern carpooling system that connects drivers with riders, maki
 - 📈 Grafana dashboard support
 
 ## Demo
-[Link to demo video](https://drive.google.com/file/d/1R1uaxlzuwCpaUR-7_5H5QymOQJKUq1ht/view?usp=sharing)
+[Link to demo video](https://www.youtube.com/watch?v=3nufvgxMc9w)
 
 ## API Documentation & Examples
-
-### Base URL
-- Development: `http://localhost:4000`
-- Production: `[Your hosted server URL]` (Replace this with your actual hosted server URL)
 
 ### Authentication APIs
 
