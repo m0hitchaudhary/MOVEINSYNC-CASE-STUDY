@@ -117,7 +117,7 @@ moveinsync-server/
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Demo
-[Link to demo video]
+[https://www.youtube.com/watch?v=3nufvgxMc9w]
 
 ## Contact
 Your Name - [Mohit Chaudhary](https://www.linkedin.com/in/m0hitchaudhary/)
