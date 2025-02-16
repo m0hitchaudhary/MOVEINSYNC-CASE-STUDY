@@ -120,5 +120,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 [Link to demo video]
 
 ## Contact
-Your Name - [@yourusername](https://twitter.com/yourusername)
-Project Link: [https://github.com/yourusername/moveinsync](https://github.com/yourusername/moveinsync) 
+Your Name - [Mohit Chaudhary](https://www.linkedin.com/in/m0hitchaudhary/)
+Project Link: [https://github.com/m0hitchaudhary/MOVEINSYNC-CASE-STUDY](https://github.com/m0hitchaudhary/MOVEINSYNC-CASE-STUDY) 
